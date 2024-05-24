@@ -1,0 +1,50 @@
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.exe
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.deps.json
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.runtimeconfig.json
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.dll
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.pdb
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\EasySerealayser.dll
+D:\Projects\C#\TestBiblioteka\bin\Debug\net8.0-windows\EasySerealayser.pdb
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.csproj.AssemblyReference.cache
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\App.g.cs
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka_MarkupCompile.cache
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka_MarkupCompile.lref
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.g.resources
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.AssemblyInfoInputs.cache
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.AssemblyInfo.cs
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.csproj.CoreCompileInputs.cache
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.csproj.CopyComplete
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.dll
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\refint\TestBiblioteka.dll
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.pdb
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.genruntimeconfig.cache
+D:\Projects\C#\TestBiblioteka\obj\Debug\net8.0-windows\ref\TestBiblioteka.dll
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.exe
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.deps.json
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.runtimeconfig.json
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.dll
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\TestBiblioteka.pdb
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\EasySerealayser.dll
+D:\Projects\sharp biblioteki\TestBiblioteka\bin\Debug\net8.0-windows\EasySerealayser.pdb
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.csproj.AssemblyReference.cache
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\App.g.cs
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka_MarkupCompile.cache
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka_MarkupCompile.lref
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.g.resources
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.AssemblyInfoInputs.cache
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.AssemblyInfo.cs
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.csproj.CoreCompileInputs.cache
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.csproj.CopyComplete
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.dll
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\refint\TestBiblioteka.dll
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.pdb
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\TestBiblioteka.genruntimeconfig.cache
+D:\Projects\sharp biblioteki\TestBiblioteka\obj\Debug\net8.0-windows\ref\TestBiblioteka.dll

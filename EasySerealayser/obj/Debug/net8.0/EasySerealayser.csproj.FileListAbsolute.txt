@@ -1,0 +1,24 @@
+D:\Projects\C#\EasySerealayser\bin\Debug\net8.0\EasySerealayser.deps.json
+D:\Projects\C#\EasySerealayser\bin\Debug\net8.0\EasySerealayser.dll
+D:\Projects\C#\EasySerealayser\bin\Debug\net8.0\EasySerealayser.pdb
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.csproj.AssemblyReference.cache
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.AssemblyInfoInputs.cache
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.AssemblyInfo.cs
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.csproj.CoreCompileInputs.cache
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.dll
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\refint\EasySerealayser.dll
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\EasySerealayser.pdb
+D:\Projects\C#\EasySerealayser\obj\Debug\net8.0\ref\EasySerealayser.dll
+D:\Projects\sharp biblioteki\EasySerealayser\bin\Debug\net8.0\EasySerealayser.deps.json
+D:\Projects\sharp biblioteki\EasySerealayser\bin\Debug\net8.0\EasySerealayser.dll
+D:\Projects\sharp biblioteki\EasySerealayser\bin\Debug\net8.0\EasySerealayser.pdb
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.csproj.AssemblyReference.cache
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.AssemblyInfoInputs.cache
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.AssemblyInfo.cs
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.csproj.CoreCompileInputs.cache
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.dll
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\refint\EasySerealayser.dll
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\EasySerealayser.pdb
+D:\Projects\sharp biblioteki\EasySerealayser\obj\Debug\net8.0\ref\EasySerealayser.dll

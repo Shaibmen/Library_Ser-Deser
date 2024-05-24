@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxiRWyeSpNiKT3UBGI0I/q2Vwyzf1e20S/09MN9EkTCjndDtEp8nCJ7H0BR/gbPMvVbtNx0vAdRIIB3+Kry6Og==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\sharp biblioteki\\EasySerealayser\\EasySerealayser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
